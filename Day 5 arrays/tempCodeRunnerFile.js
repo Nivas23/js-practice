@@ -1,0 +1,1 @@
+ages.forEach(()=>{sum=sum+ages[i];i++})
